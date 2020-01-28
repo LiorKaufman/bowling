@@ -1,0 +1,23 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "bowling",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiorKaufman/bowling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiorKaufman/bowling/issues"
+  },
+  "homepage": "https://github.com/LiorKaufman/bowling#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
